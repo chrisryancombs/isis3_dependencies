@@ -6,7 +6,7 @@ package:
 
 source:
   git_url: 'https://github.com/USGS-Astrogeology/ISIS3.git'
-  git_branch: cmake
+  git_branch: dev
 
 build:
   number: 0
